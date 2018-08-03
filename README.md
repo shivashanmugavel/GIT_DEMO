@@ -1,1 +1,1 @@
-# GIT_DEMO for first commit
+# GIT_DEMO for first commit/commiting on branched version
